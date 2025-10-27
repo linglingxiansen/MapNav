@@ -17,7 +17,7 @@ The code has been tested only with Python 3.8 on Ubuntu 20.04.
 - Install the [LLaVA](https://github.com/LLaVA-VL/LLaVA-NeXT).
 
 2. Dataset
-- Download Matterport3d scene dataset to the data path.
+- Download [Matterport3d](https://niessner.github.io/Matterport/) scene dataset to the data path.
 
 3. Path
 - Change the dataset path and habitat path in the config_utils.py
